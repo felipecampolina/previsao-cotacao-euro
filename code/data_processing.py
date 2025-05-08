@@ -26,6 +26,7 @@ def load_and_preprocess_data(filepath: str):
     )
 
     return (
+        df,  # Retorna o DataFrame original
         X_train,
         X_test,
         y_usd_train,
