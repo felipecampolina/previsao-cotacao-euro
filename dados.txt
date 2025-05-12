@@ -1,0 +1,3 @@
+currency https://data.ecb.europa.eu/
+
+outros : https://datos.bancomundial.org/
